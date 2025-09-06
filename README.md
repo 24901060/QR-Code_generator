@@ -18,4 +18,8 @@ Run `pip install qrcode`
 </p>
 
 ## *Author Name*
-[Vikrant](https://github.com/vikrant-v28)
+Praveen S
+212224230206
+
+## QR Image
+<img width="495" height="495" alt="url_qrcode" src="https://github.com/user-attachments/assets/8b7ffc49-f7bb-444d-b19c-6979d3e82c51" />
